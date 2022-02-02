@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Raleway&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Forum', cursive;
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+  background-color: #fff0ff;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #fff;
+}
+.btn {
+  margin: 15px 0;
+  padding: 10px 25px;
+  background-color: #a300a3;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 50px;
+}
+
+.btn:hover {
+  background-color: rgb(81, 12, 83);
+  }
