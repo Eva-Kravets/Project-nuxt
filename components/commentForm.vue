@@ -78,9 +78,8 @@ label {
 }
 
 .btn_commentForm {
-  position: absolute;
   margin: 15px;
-  left: 410px;
+  margin-left: 35%;
   border: none;
   color: white;
   padding: 15px 45px;
